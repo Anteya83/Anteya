@@ -6,7 +6,6 @@ $animals = [
     'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
 ];
 $twoWord=[];
-$arrayAnimal=[];
 
 foreach ($animals as $countries => $animal_mas){ 
     foreach ($animal_mas as $value) {  
