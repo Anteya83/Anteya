@@ -8,8 +8,8 @@
 <?php
 $animals = [
      'Africa'=> ['Hyena', 'Lion', 'white rhino', 'Eared Fox', 'Zebra'],
--    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
--    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
+    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
+    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
 ];
 $twoWord=[];
 $arrayAnimal=[];
