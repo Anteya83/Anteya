@@ -7,9 +7,9 @@
 <body>
 <?php
 $animals = [
-    'Africa'=> ['Elefant grey', 'Tiger', 'Wild Horse', 'Monkey', 'King Crocodile'],
-    'Asia'=> ['Lion', 'Green frog', 'Bison'],
-    'Europe'=> ['Wolf', 'Bear', 'Mouse', 'White lama', 'Antilopa gnu'],
+     'Africa'=> ['Hyena', 'Lion', 'white rhino', 'Eared Fox', 'Zebra'],
+-    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
+-    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
 ];
 $twoWord=[];
 $arrayAnimal=[];
