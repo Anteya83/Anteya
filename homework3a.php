@@ -1,9 +1,15 @@
 <body>
 <?php
 $animals = [
+<<<<<<< HEAD
     'Africa'=> ['Hyena', 'Lion', 'White rhino', 'Eared Fox', 'Zebra'],
    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
+=======
+    'Africa'=> ['Hyena', 'Lion', 'white rhino', 'Eared Fox', 'Zebra'],
+-    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
+-    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
+>>>>>>> 70ee7ea480c53244e9d98f66f6c93ec53385ed00
 ];
 $twoWord=[];
 $arrayAnimal=[];
