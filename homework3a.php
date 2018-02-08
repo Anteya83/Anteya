@@ -2,6 +2,7 @@
 <?php
 $animals = [
 <<<<<<< HEAD
+<<<<<<< HEAD
     'Africa'=> ['Hyena', 'Lion', 'White rhino', 'Eared Fox', 'Zebra'],
    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
@@ -10,9 +11,13 @@ $animals = [
 -    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
 -    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
 >>>>>>> 70ee7ea480c53244e9d98f66f6c93ec53385ed00
+=======
+    'Africa'=> ['Hyena', 'Lion', 'White rhino', 'Eared Fox', 'Zebra'],
+    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
+    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
+>>>>>>> 41b18216039ee40102863caaebb3a9fa2fb7dfeb
 ];
 $twoWord=[];
-$arrayAnimal=[];
 
 foreach ($animals as $countries => $animal_mas){ 
     foreach ($animal_mas as $value) {  

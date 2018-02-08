@@ -13,9 +13,14 @@ $animals = [
    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
 =======
      'Africa'=> ['Hyena', 'Lion', 'white rhino', 'Eared Fox', 'Zebra'],
+<<<<<<< HEAD
 -    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
 -    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
 >>>>>>> 70ee7ea480c53244e9d98f66f6c93ec53385ed00
+=======
+    'Asia'=> ['Red wolf','Bactrian camel', 'Tiger'],
+    'Europe'=> ['Red Fox', 'Squirrel', 'White lama', 'Seal'],
+>>>>>>> 41b18216039ee40102863caaebb3a9fa2fb7dfeb
 ];
 $twoWord=[];
 $arrayAnimal=[];
